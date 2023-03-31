@@ -1,2 +1,3 @@
 # testRebaseMergeIssues
 mainFirst
+mainSecond
