@@ -1,3 +1,4 @@
 # testRebaseMergeIssues
 mainFirst
 mainSecond
+featureFirst
